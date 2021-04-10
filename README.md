@@ -6,6 +6,7 @@
 * In this presentation we will discuss the emotional response of twitter to Covid- 19 and how that impacted the SP&500. 
 * The origination of this project came up when our team wanted to understand the trends of how we react and how that truly makes a difference on the market. 
 * Through the files in the repo you will find monthly data of covid information that we further analyze in Covid-Data-Analysis while also putting in the SP&500.
+* After analyzing this information we answered the following questions coming to the conclusion that are hypothesis was incorrect- there is no correlation between SP&500 and Covid-19.
 
 
 ## Data Analysis:
